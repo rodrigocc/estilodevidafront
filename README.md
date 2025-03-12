@@ -10,24 +10,17 @@ O **Viva+ Saúde** ajuda os usuários a estabelecer e manter um estilo de vida e
 ## Funcionalidades Principais
 - Cadastro e personalização do perfil do usuário
 - Monitoramento de atividades físicas
-- Plano alimentar e contagem de macronutrientes
-- Exercícios de meditação e bem-estar mental
-- Desafios e gamificação para incentivar hábitos saudáveis
 - Notificações e lembretes motivacionais
 - Relatórios e análises detalhadas do progresso
 
 ## Tecnologias Utilizadas
 - **Frontend:** Flutter
 - **Backend:** Spring Boot com PostgreSQL
-- **Integração:** Google Fit, Apple Health
-- **Autenticação:** Firebase Auth
-- **Armazenamento:** Firebase Firestore
 
 ## Como Executar o Projeto
 ### Pré-requisitos
 - Flutter instalado
 - Android Studio ou Xcode configurado
-- Conta no Firebase configurada
 
 ### Passos
 1. Clone o repositório:
